@@ -7,4 +7,9 @@ This assignment will get you set up and rolling with a basic project. By the end
 ## Submission Instructions
 
 ### Project Repository
-Change this text with a link to your project repository here. Also add a README.md file to your project repository.
+  
+The link to our Liftoff project:  
+https://github.com/April-2022-LC-LiftOff/pet-life
+
+The link to a simple hello-world project:  
+https://github.com/wrenhsieh18/project-setup
